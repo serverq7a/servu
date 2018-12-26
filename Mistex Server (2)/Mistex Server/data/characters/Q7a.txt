@@ -1,0 +1,222 @@
+[ACCOUNT]
+character-username = Q7a
+character-password = q7a
+
+[CHARACTER]
+character-height = 0
+character-posx = 3090
+character-posy = 3526
+character-rights = 3
+lastLoginDate = 20181126
+UUID = 
+hasBankpin = false
+pinRegisteredDeleteDay = 0
+requestPinDelete = false
+removeBankMessage = false
+bankPin1 = 0
+bankPin2 = 0
+bankPin3 = 0
+bankPin4 = 0
+gameTime = 853
+yellTag = Mistex
+totalTasks = 0
+counterxp = 7576579
+has-npc = false
+summonId = 0
+EP = 0
+EPMINUTES = 0
+safeTimer = 1000
+TargetPercentage = 0
+targetIndex = 0
+brothers = 0
+lastBrother = 0
+brothersKilled = 	false	false	false	false	false	false
+join-date = 12@lre@/@gre@25@lre@/@gre@2018
+removedTask0 = -1
+removedTask1 = -1
+removedTask2 = -1
+removedTask3 = -1
+character-title = 0
+last-vote = 0
+skull-timer = -1
+magic-book = 0
+character-expLock = false
+savedClan = mistex
+KC = 0
+DC = 23
+ban-start = 0
+ban-end = 0
+special-amount = 2249.5
+selected-coffin = 0
+votePoints = 0
+pkPoints = 0
+teleblock-length = 0
+pc-points = 0
+killStreak = 0
+earningPotential = 0
+isDonator = 0
+donarPoints = 0
+totalDonations = 0
+slayerPoints = 0
+magePoints = 0
+autoRet = 0
+flagged = false
+mute-end = 0
+fightMode = 2
+altarPrayed = 1
+skillingPoints = 0
+slayerPoints = 0
+slayerTask = 0
+taskType = 0
+taskAmount = 0
+setTheAppearance = false
+void = 0	0	0	0	0
+totalPrestiges = 0
+prestigePoints = 0
+skillPrestiges = 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+totalSkillExp = 	1082050	19000	4012800	1872059	271150	200	231570	0	0	0	0	0	0	0	0	0	0	87750	0	0	0	0	0	0	0
+hasActivePerk = false
+activeCycles = 0
+coolDown = 0
+perksActivated = 	false	false	false	false	false	false	false	false	false	false	false	false
+questCompleted = 0
+gameOfChess = 0
+AcQuest = 0
+cookAss = 0
+doricsQuest = 0
+
+[TOGGLES]
+privateChat = 0
+wantTrivia = true
+
+[PROFILER]
+canViewProfile = true
+profileColour = whi
+name = Not set!
+ageProfile = Not set!
+bplaceProfile = Not set!
+aboutMe = Not set!
+
+[ACHIEVEMENTS]
+
+achievementsCompleted = 0
+achievementPoints = 0
+currentlyCompletedAll = false
+foodEaten = 3
+potionsDrank = 4
+duelsWon = 0
+teleportedHome = 2
+triviaWon = 0
+altarPrayers = 0
+profileViews = 0
+pkStatuePlays = 0
+tradesCompleted = 1
+appearancesChanged = 1
+corpKills = 0
+rockCrabKills = 0
+jadKills = 0
+yewsCut = 0
+foodCooked = 0
+logsBurned = 0
+oresRecieved = 0
+playerReported = false
+killedF2p = false
+hit900 = false
+gotCompletionist = false
+
+[EQUIPMENT]
+character-equip = 0	-1	1	
+character-equip = 1	23639	1	
+character-equip = 2	-1	1	
+character-equip = 3	15486	1	
+character-equip = 4	-1	1	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	1	
+character-equip = 10	-1	1	
+character-equip = 11	-1	0	
+character-equip = 12	773	1	
+character-equip = 13	15243	1	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	2
+character-look = 2	18
+character-look = 3	26
+character-look = 4	33
+character-look = 5	36
+character-look = 6	42
+character-look = 7	11
+character-look = 8	1
+character-look = 9	1
+character-look = 10	2
+character-look = 11	3
+character-look = 12	3
+
+[SKILLS]
+character-skill = 0	99	15473210
+character-skill = 1	99	14410160
+character-skill = 2	99	18403960
+character-skill = 3	99	16263219
+character-skill = 4	99	14662310
+character-skill = 5	99	14391360
+character-skill = 6	99	14622730
+character-skill = 7	99	14391160
+character-skill = 8	99	14391160
+character-skill = 9	99	14391160
+character-skill = 10	99	14391160
+character-skill = 11	99	14391160
+character-skill = 12	99	14391160
+character-skill = 13	99	14391160
+character-skill = 14	99	14391160
+character-skill = 15	99	14391160
+character-skill = 16	99	14391160
+character-skill = 17	99	14478910
+character-skill = 18	99	14391160
+character-skill = 19	99	14391160
+character-skill = 20	99	14391160
+character-skill = 21	99	14391160
+character-skill = 22	99	14391160
+character-skill = 23	99	14391160
+character-skill = 24	99	14391160
+
+[ITEMS]
+character-item = 0	20073	1
+character-item = 1	15242	1
+character-item = 2	13906	1
+character-item = 3	11236	1
+character-item = 4	14485	1
+character-item = 5	996	126084
+character-item = 6	12160	1
+character-item = 7	13903	1
+character-item = 8	19785	1
+character-item = 9	11213	9957
+character-item = 10	10888	1
+character-item = 11	8865	1
+
+[BANK]
+character-bank = 0	11697	1
+character-bank = 1	996	9962500
+character-bank = 2	140	8
+character-bank = 3	4046	2
+character-bank = 4	11699	1
+character-bank = 5	230	1
+character-bank = 6	386	2
+character-bank = 7	142	1
+character-bank = 8	13900	1
+character-bank = 9	13901	1
+character-bank = 10	11695	1
+character-bank = 11	4154	1
+character-bank = 12	13924	1
+character-bank = 13	11701	1
+character-bank = 14	20172	1
+character-bank = 15	14485	1
+
+[FRIENDS]
+
+[FARMING]
+
+[EOF]
+

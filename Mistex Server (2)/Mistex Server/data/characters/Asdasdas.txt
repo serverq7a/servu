@@ -1,0 +1,195 @@
+[ACCOUNT]
+character-username = Asdasdas
+character-password = asdasdasd
+
+[CHARACTER]
+character-height = 0
+character-posx = 3087
+character-posy = 3499
+character-rights = 0
+lastLoginDate = 20181119
+UUID = 
+hasBankpin = false
+pinRegisteredDeleteDay = 0
+requestPinDelete = false
+removeBankMessage = false
+bankPin1 = 0
+bankPin2 = 0
+bankPin3 = 0
+bankPin4 = 0
+gameTime = 4
+yellTag = Mistex
+totalTasks = 0
+counterxp = 750
+has-npc = false
+summonId = 0
+EP = 0
+EPMINUTES = 0
+safeTimer = 1000
+TargetPercentage = 0
+targetIndex = 0
+brothers = 0
+lastBrother = 0
+brothersKilled = 	false	false	false	false	false	false
+join-date = 12@lre@/@gre@19@lre@/@gre@2018
+removedTask0 = -1
+removedTask1 = -1
+removedTask2 = -1
+removedTask3 = -1
+character-title = 0
+last-vote = 0
+skull-timer = 0
+magic-book = 0
+character-expLock = false
+savedClan = mistex
+KC = 0
+DC = 0
+ban-start = 0
+ban-end = 0
+special-amount = 10.0
+selected-coffin = 0
+votePoints = 0
+pkPoints = 0
+teleblock-length = 0
+pc-points = 0
+killStreak = 0
+earningPotential = 0
+isDonator = 0
+donarPoints = 0
+totalDonations = 0
+slayerPoints = 0
+magePoints = 0
+autoRet = 0
+flagged = false
+mute-end = 0
+fightMode = 0
+altarPrayed = 0
+skillingPoints = 0
+slayerPoints = 0
+slayerTask = 0
+taskType = 0
+taskAmount = 0
+setTheAppearance = false
+void = 0	0	0	0	0
+totalPrestiges = 0
+prestigePoints = 0
+skillPrestiges = 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+totalSkillExp = 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	750	0	0	0	0	0	0	0
+hasActivePerk = false
+activeCycles = 0
+coolDown = 0
+perksActivated = 	false	false	false	false	false	false	false	false	false	false	false	false
+questCompleted = 0
+gameOfChess = 0
+AcQuest = 0
+cookAss = 0
+doricsQuest = 0
+
+[TOGGLES]
+privateChat = 0
+wantTrivia = true
+
+[PROFILER]
+canViewProfile = true
+profileColour = whi
+name = Not set!
+ageProfile = Not set!
+bplaceProfile = Not set!
+aboutMe = Not set!
+
+[ACHIEVEMENTS]
+
+achievementsCompleted = 0
+achievementPoints = 0
+currentlyCompletedAll = false
+foodEaten = 0
+potionsDrank = 0
+duelsWon = 0
+teleportedHome = 0
+triviaWon = 0
+altarPrayers = 0
+profileViews = 0
+pkStatuePlays = 0
+tradesCompleted = 0
+appearancesChanged = 2
+corpKills = 0
+rockCrabKills = 0
+jadKills = 0
+yewsCut = 0
+foodCooked = 0
+logsBurned = 0
+oresRecieved = 0
+playerReported = false
+killedF2p = false
+hit900 = false
+gotCompletionist = false
+
+[EQUIPMENT]
+character-equip = 0	-1	1	
+character-equip = 1	-1	1	
+character-equip = 2	-1	1	
+character-equip = 3	-1	0	
+character-equip = 4	-1	1	
+character-equip = 5	-1	1	
+character-equip = 6	-1	0	
+character-equip = 7	-1	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	1	
+character-equip = 10	-1	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	1	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	18
+character-look = 3	26
+character-look = 4	33
+character-look = 5	36
+character-look = 6	42
+character-look = 7	10
+character-look = 8	0
+character-look = 9	0
+character-look = 10	0
+character-look = 11	0
+character-look = 12	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	1	0
+character-skill = 3	10	1300
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	7	750
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	1451
+
+[BANK]
+
+[FRIENDS]
+
+[FARMING]
+
+[EOF]
+
